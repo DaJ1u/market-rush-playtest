@@ -1,0 +1,18 @@
+Banger — temporary reference music for MARKET RUSH
+
+Artist: FSM Team feat. < e s c p >
+Music by https://www.free-stock-music.com
+Track: https://www.free-stock-music.com/fsm-team-banger.html
+Artist release and permission: https://fsmteam.bandcamp.com/track/banger
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+The artist permits use online or offline, including commercial projects,
+with attribution. Credit is displayed in the game's sound settings.
+The original MP3 is bundled locally and embedded in the generated HTML.
+No arrangement, speed or pitch changes are made. Runtime gain adjustment,
+looped playback, and mixing with separate gameplay sound effects are used.
+The artist does not endorse MARKET RUSH. This is temporary prototype music.
+
+Original MP3 download:
+https://www.free-stock-music.com/music/fsm-team/mp3/fsm-team-banger.mp3
